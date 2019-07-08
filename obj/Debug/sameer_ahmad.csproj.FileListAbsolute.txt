@@ -1,0 +1,6 @@
+C:\Users\sameer_pc\Desktop\Visual Studio\sameer_ahmad\bin\Debug\sameer_ahmad.exe.config
+C:\Users\sameer_pc\Desktop\Visual Studio\sameer_ahmad\bin\Debug\sameer_ahmad.exe
+C:\Users\sameer_pc\Desktop\Visual Studio\sameer_ahmad\bin\Debug\sameer_ahmad.pdb
+C:\Users\sameer_pc\Desktop\Visual Studio\sameer_ahmad\obj\Debug\sameer_ahmad.csprojResolveAssemblyReference.cache
+C:\Users\sameer_pc\Desktop\Visual Studio\sameer_ahmad\obj\Debug\sameer_ahmad.exe
+C:\Users\sameer_pc\Desktop\Visual Studio\sameer_ahmad\obj\Debug\sameer_ahmad.pdb
