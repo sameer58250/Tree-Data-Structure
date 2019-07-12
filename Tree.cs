@@ -48,7 +48,7 @@ namespace sameer_ahmad
         }
 
         public listener getCurrentEvent(){
-            return (listener)CurrentEvent.Clone();
+            return CurrentEvent;
         }
     }
 
